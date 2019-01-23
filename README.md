@@ -7,6 +7,6 @@
 
 #### props to John Cokos and JB Tellez for supergoose
 
-Ennjoy your experience
+Enjoy your experience
 
  
