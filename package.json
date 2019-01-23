@@ -1,0 +1,25 @@
+{
+  "name": "cf-supergoose",
+  "version": "1.0.0",
+  "description": "Combines SuperTest and Mongoose Memory Server to reduce (hopefully) the pain of testing a Mongoose API",
+  "main": "supergoose.js",
+  "scripts": {
+    "start": "suergoose.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkgallaway/cf-supergoose.git"
+  },
+  "keywords": [],
+  "author": "Ryan Gallaway",
+  "dependencies": {
+    "supertest": "^3.4.2",
+    "mongoose": "^5.4.6",
+    "mongodb-memory-server": "^3.0.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rkgallaway/cf-supergoose/issues"
+  },
+  "homepage": "https://github.com/rkgallaway/cf-supergoose#readme"
+}
