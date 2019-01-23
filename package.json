@@ -1,6 +1,6 @@
 {
   "name": "cf-supergoose",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Combines SuperTest and Mongoose Memory Server to reduce (hopefully) the pain of testing a Mongoose API",
   "main": "supergoose.js",
   "scripts": {
