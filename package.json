@@ -4,7 +4,10 @@
   "description": "Combines SuperTest and Mongoose Memory Server to reduce (hopefully) the pain of testing a Mongoose API",
   "main": "supergoose.js",
   "scripts": {
-    "start": "suergoose.js"
+    "start": "suergoose.js",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json",
+    "test": "jest --verbose",
+    "test-watch": "jest --watchAll --verbose"  
   },
   "repository": {
     "type": "git",
